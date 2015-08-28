@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Exclude>
+  <Folder Name="packages" />
+  <Folder Name="References" />
+</Exclude>
